@@ -1,5 +1,18 @@
 # @backstage/plugin-app
 
+## 0.6.0-next.3
+
+### Patch Changes
+
+- ff23578: Added support for translated titles in navigation, page headers, tabs, and breadcrumbs.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.19.0-next.3
+  - @backstage/core-plugin-api@1.13.0-next.3
+  - @backstage/core-components@0.18.16-next.2
+  - @backstage/integration-react@1.2.24-next.2
+  - @backstage/plugin-app-react@0.3.0-next.3
+  - @backstage/plugin-permission-react@0.5.7-next.2
+
 ## 0.6.0-next.2
 
 ### Minor Changes
